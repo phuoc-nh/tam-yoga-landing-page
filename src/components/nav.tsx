@@ -24,12 +24,12 @@ export default function NavBar() {
     },
     {
       name: 'Schedules',
-      path: '/schedules'
+      path: '/schedule'
     },
-    {
-      name: 'Classes',
-      path: '/about'
-    }
+    // {
+    //   name: 'Classes',
+    //   path: '/schedule'
+    // }
   ]
   
   return (

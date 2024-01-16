@@ -89,6 +89,70 @@ export default function Home() {
           />
         </div>
       </section>
+
+      <section className='mt-10'>
+        <div className='text-3xl text-center'>Discover Your Inner Peace with Yoga!</div>
+        <div className="flex flex-col 2xl:flex-row h-auto max-w-full  lg:px-[25vh] items-center">
+          <div className='basis-1/2 grid grid-cols-1 sm:grid-cols-2 gap-4 content-center'>
+            <div className='mt-5  p-2 sm:p-10 max-w-[350px]'>
+              <div className="bg-[#EFEAFF] p-8 rounded-tl-[99px] rounded-br-[99px]">
+                <div className='font-bold text-xl'>
+                  <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
+                </div>
+                <p>Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an
+                    unknown printer took a galley of type and scrambled it
+                    to make a type specimen book.</p>
+              </div>
+            </div>
+            <div className='mt-5  p-2 sm:p-10 max-w-[350px]'>
+              <div className="bg-[#EFEAFF] p-8 rounded-tl-[99px] rounded-br-[99px]">
+                <div className='font-bold text-xl'>
+                  <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
+                </div>
+                <p>Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an
+                    unknown printer took a galley of type and scrambled it
+                    to make a type specimen book.</p>
+              </div>
+            </div>
+            <div className='mt-5  p-2 sm:p-10 max-w-[350px]'>
+              <div className="bg-[#EFEAFF] p-8 rounded-tl-[99px] rounded-br-[99px]">
+                <div className='font-bold text-xl'>
+                  <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
+                </div>
+                <p>Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an
+                    unknown printer took a galley of type and scrambled it
+                    to make a type specimen book.</p>
+              </div>
+            </div>
+            <div className='mt-5  p-2 sm:p-10 max-w-[350px]'>
+              <div className="bg-[#EFEAFF] p-8 rounded-tl-[99px] rounded-br-[99px]">
+                <div className='font-bold text-xl'>
+                  <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
+                </div>
+                <p>Lorem Ipsum has been the industry's standard dummy text
+                    ever since the 1500s, when an
+                    unknown printer took a galley of type and scrambled it
+                    to make a type specimen book.</p>
+              </div>
+            </div>
+          </div>
+
+          <div className='basis-1/2 flex justify-center mb-28 '>
+            <Image
+              src="/static/Group 11.png"
+              alt="group"
+              width={0}
+              height={0}
+              className='min-w-[380px]'
+              sizes="70vw"
+              style={{ width: '100%', height: 'auto' }}
+            />
+          </div>
+        </div>
+      </section>
     </main>
   )
 }
