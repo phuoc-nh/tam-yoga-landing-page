@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className="">
+    <main>
       <section className="mt-5 flex flex-col-reverse md:flex-row h-auto max-w-full p-5 sm:px-[10vh] lg:px-[25vh] mb-24 sm:mb-48">
           <div className="font-bold mt-5 basis-1/2 flex justify-center align-middle items-center text-center md:text-left lg:text-4xl md:text-3xl sm:text-2xl">
             Basic Yoga and Meditation <br /> for Beginners
@@ -46,7 +46,7 @@ export default function Home() {
               <div className='font-bold text-xl'>
                 <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
               </div>
-              <p >Lorem Ipsum has been the industry's standard dummy text
+              <p >Lorem Ipsum has been the industry standard dummy text
                   ever since the 1500s, when an
                   unknown printer took a galley of type and scrambled it
                   to make a type specimen book.</p>
@@ -66,7 +66,7 @@ export default function Home() {
               <div className='font-bold text-xl'>
                 <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
               </div>
-              <p>Lorem Ipsum has been the industry's standard dummy text
+              <p>Lorem Ipsum has been the industry standard dummy text
                   ever since the 1500s, when an
                   unknown printer took a galley of type and scrambled it
                   to make a type specimen book.</p>
@@ -99,7 +99,7 @@ export default function Home() {
                 <div className='font-bold text-xl'>
                   <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
                 </div>
-                <p>Lorem Ipsum has been the industry's standard dummy text
+                <p>Lorem Ipsum has been the industry standard dummy text
                     ever since the 1500s, when an
                     unknown printer took a galley of type and scrambled it
                     to make a type specimen book.</p>
@@ -110,7 +110,7 @@ export default function Home() {
                 <div className='font-bold text-xl'>
                   <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
                 </div>
-                <p>Lorem Ipsum has been the industry's standard dummy text
+                <p>Lorem Ipsum has been the industry standard dummy text
                     ever since the 1500s, when an
                     unknown printer took a galley of type and scrambled it
                     to make a type specimen book.</p>
@@ -121,7 +121,7 @@ export default function Home() {
                 <div className='font-bold text-xl'>
                   <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
                 </div>
-                <p>Lorem Ipsum has been the industry's standard dummy text
+                <p>Lorem Ipsum has been the industry standard dummy text
                     ever since the 1500s, when an
                     unknown printer took a galley of type and scrambled it
                     to make a type specimen book.</p>
@@ -132,7 +132,7 @@ export default function Home() {
                 <div className='font-bold text-xl'>
                   <h1>Healthiest Change in <br /> Your Life by Yoga</h1>
                 </div>
-                <p>Lorem Ipsum has been the industry's standard dummy text
+                <p>Lorem Ipsum has been the industry standard dummy text
                     ever since the 1500s, when an
                     unknown printer took a galley of type and scrambled it
                     to make a type specimen book.</p>
