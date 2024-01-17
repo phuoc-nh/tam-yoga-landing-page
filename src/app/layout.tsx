@@ -8,13 +8,15 @@ const inter = Gabriela({
   subsets: ['latin'], 
   weight: ['400']
  })
-
+ 
 export const metadata: Metadata = {
   title: 'Tâm yoga',
   description: 'Tâm yoga Phước Đông Gò Dầu Tây Ninh',
   icons: {
     icon: "/static/tam-logo.png",
-  }
+  },
+  verification: { google: "K1WG-_WYpkuXqeILA2S6PKlQfNVfO_wfBW6J9V2i6DI" },
+
 }
 
 export default function RootLayout({
